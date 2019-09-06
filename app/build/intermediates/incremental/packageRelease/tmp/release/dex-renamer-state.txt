@@ -1,0 +1,4 @@
+#Fri Sep 06 02:58:03 EET 2019
+base.0=/home/linux/AndroidStudioProjects/EminemChange/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
